@@ -1,0 +1,17 @@
+Create (255, 0, 0) Rectangle R with corner at (200.0,200.0),
+width 50.0 and height 200.0. R appears at time t=1 and disappears at time t=100.
+
+R MOVES FROM (200,200) to (300,300). From time t=10 to t=50.
+R WIDTH CHANGES FROM 50 to 25. From time t=51 to t=70.
+R MOVES FROM (300,300) to (200,200). From time t=70 to t=100.
+
+
+Create (0, 0, 255) Oval C with corner at (440.0,70.0),
+radius 60.0 and 70.0. C appears at time t=6 and disappears at time t=100.
+
+C MOVES FROM (440,70) to (440,250). From time t=20 to t=50.
+C MOVES FROM (440,250) to (440,370). From time t=50 to t=70.
+C CHANGES COLOR FROM (0,0,255) to (0,170,85). From time t=50 to t=70
+C CHANGES COLOR FROM (0,170,85) to (0,255,0). From time t=70 to t=80
+
+
